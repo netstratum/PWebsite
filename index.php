@@ -33,7 +33,7 @@
 
         <div class="slider-wrapper theme-default">
             <div id="slider" class="nivoSlider">
-                <img src="sliderimages/toystory.jpg" data-thumb="sliderimages/toystory.jpg" alt="" />
+                <img src="sliderimages/toystory.jpg" data-thumb="sliderimages/training.jpg" alt="" />
                 <a href="http://dev7studios.com"><img src="sliderimages/up.jpg" data-thumb="sliderimages/up.jpg" alt="" title="This is an example of a caption" /></a>
                 <img src="sliderimages/walle.jpg" data-thumb="sliderimages/walle.jpg" alt="" data-transition="slideInLeft" />
                 <img src="sliderimages/nemo.jpg" data-thumb="sliderimages/nemo.jpg" alt="" title="#htmlcaption" />
