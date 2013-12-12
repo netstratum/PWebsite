@@ -115,20 +115,20 @@
 		</ul>
 		</li>-->
 		<li class="menu-footers dropdown">
-		<a href="#" class="dropdown-toggle" data-hash="">Products & Solutions<i class="icon-angle-down"></i></a>
+		<a href="#">Products & Solutions<i class="icon-angle-down"></i></a>
 		</li>
 		<li class="menu-blog dropdown">
 		<a href="courses.php">Training <i class="icon-angle-down"></i></a>
 		</li>
 		<!--<li class="menu-portfolio dropdown">
-		<a href="#" class="dropdown-toggle" data-hash="">Big Data Lab <i class="icon-angle-down"></i></a>
+		<a href="#">Big Data Lab <i class="icon-angle-down"></i></a>
 		</li>-->
 		<!--<li class="menu-features dropdown">
 		<a href="#" class="dropdown-toggle" data-hash="">Partners <i class="icon-angle-down"></i></a>
 		</li>-->
-		<li class="menu-features dropdown"><a href="#" class="dropdown-toggle" data-hash="">Technology Blog <i class="icon-angle-down"></i></a>
+		<li class="menu-features dropdown"><a href="#">Technology Blog <i class="icon-angle-down"></i></a>
 		</li>
-		<li class="menu-contact-us dropdown"><a href="contact.php" class="dropdown-toggle">Contact<i class="icon-angle-down"></i></a>
+		<li class="menu-contact-us dropdown"><a href="contact.php">Contact<i class="icon-angle-down"></i></a>
 		</li>
 	</ul></nav>
 </header>    <!-- /header -->
