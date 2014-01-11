@@ -85,7 +85,7 @@
     <header>
     <div class="container">
         <h1 class="logo" id="logo">
-		<a href="index.php" title="Praxio Technologies"><img src="./images/praxio-logo.png" alt="Praxio Technologies Logo" title="Praxio Technologies"></a>
+		<a href="/" title="Praxio Technologies"><img src="./images/praxio-logo.png" alt="Praxio Technologies Logo" title="Praxio Technologies"></a>
 		</h1> 
 		<div class="search">
 		<form class="form-search" id="searchForm" action="#" method="get" novalidate="novalidate">
