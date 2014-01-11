@@ -28,6 +28,10 @@
 <link rel="stylesheet" id="rs-settings-css" href="css/settings.css" type="text/css" media="all">
 <link rel="stylesheet" id="rs-captions-css" href="css/captions.css" type="text/css" media="all">
 <script type="text/javascript" src="js/jquery.js"></script>
+
+<script type="text/javascript" src="js/jquery-easing-1.3.js"></script>
+<script type="text/javascript" src="js/jquerytransit.js"></script>
+<script type="text/javascript" src="js/layerslider.transitions.js"></script>
 <script type="text/javascript" src="js/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="js/modernizr.js"></script>
 <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
@@ -106,29 +110,24 @@
 		</nav>
 		<nav id="primary-nav" class="noclass" style=''>
 	<ul id="mainMenu" class="nav nav-pills nav-main">
-		<!--<li class="menu-headers dropdown">
-		<a href="about.php" class="dropdown-toggle" data-hash="">About <i class="icon-angle-down"></i></a>
-		<ul class="dropdown-menu">
-			<li class="menu-portfolio-1-columns"><a href="about.php">Mission</a></li>
-			<li class="menu-portfolio-2-columns"><a href="about.php">Vision</a></li>
-			<li class="menu-portfolio-3-columns"><a href="about.php">Events</a></li>
-		</ul>
-		</li>-->
+		<li class="menu-headers dropdown" style='margin-top: -7px;'>
+		<a href="index.php" class="dropdown-toggle" data-hash=""><img src='images/home.png'/> <i class="icon-angle-down"></i></a>
+		</li>
 		<li class="menu-footers dropdown">
-		<a href="#">Products & Solutions<i class="icon-angle-down"></i></a>
+		<a href="#" class="dropdown-toggle" data-hash="">Products & Solutions<i class="icon-angle-down"></i></a>
 		</li>
 		<li class="menu-blog dropdown">
 		<a href="courses.php">Training <i class="icon-angle-down"></i></a>
 		</li>
 		<!--<li class="menu-portfolio dropdown">
-		<a href="#">Big Data Lab <i class="icon-angle-down"></i></a>
+		<a href="#" class="dropdown-toggle" data-hash="">Big Data Lab <i class="icon-angle-down"></i></a>
 		</li>-->
 		<!--<li class="menu-features dropdown">
 		<a href="#" class="dropdown-toggle" data-hash="">Partners <i class="icon-angle-down"></i></a>
 		</li>-->
-		<li class="menu-features dropdown"><a href="#">Technology Blog <i class="icon-angle-down"></i></a>
+		<li class="menu-features dropdown"><a href="#" class="dropdown-toggle" data-hash="">Technology Blog <i class="icon-angle-down"></i></a>
 		</li>
-		<li class="menu-contact-us dropdown"><a href="contact.php">Contact<i class="icon-angle-down"></i></a>
+		<li class="menu-contact-us dropdown"><a href="contact.php" class="dropdown-toggle">Contact<i class="icon-angle-down"></i></a>
 		</li>
 	</ul></nav>
 </header>    <!-- /header -->

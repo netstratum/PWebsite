@@ -86,7 +86,7 @@ border:5px solid #1F81FF;background: #000;color:#fff;
 	<div class='dullViewcontent'>
 	<div id="fcSlideshow" class="fc-slideshow developers" style='overflow:hidden;float:left;width:50%'>
 		<h4 style='margin-top: 20px;color: #fff;font-size: 24px;text-align: left;margin-left: 4%;'>Introduction to the class</h4>
-		<iframe width="485" height="300" style='margin-top: 45px;' frameborder="0" allowfullscreen></iframe>
+		<iframe width="485" height="300" style='margin-top: 45px;' src="//www.youtube.com/embed/OvmbG00V7m8" frameborder="0" allowfullscreen></iframe>
 		<a href='#'><div style='margin-top:10px;font-size:19px;color:#fff !important'>Survey Link</div></a>
 	</div>
 	<div style='float:left;width:45%'>

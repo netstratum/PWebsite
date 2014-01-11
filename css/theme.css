@@ -222,7 +222,7 @@ header nav ul.nav-main li a {
 }
 
 header nav ul.nav-main li a:hover {
-	background-color: #F4F4F4;
+	background-color: none !important;
 }
 
 header nav ul.nav-main li.dropdown:hover > a {
@@ -985,8 +985,6 @@ footer {
 background: #F7F7F7;
 border-top: 4px solid #FF4949;
 font-size: 0.9em;
-margin-top: 70px;
-padding: 80px 0 0;
 position: relative;
 }
 
@@ -1091,7 +1089,6 @@ footer h4 {
 div.footer-copyright {
 background: #E2E1E1;
 border-bottom: 12px solid #111;
-margin-top: 40px;
 padding: 30px 0 10px;
 }
 

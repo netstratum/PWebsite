@@ -218,17 +218,20 @@
 	}
 	.fc-slideshow {
 	position: relative;
-	width: 220px;
-	height: 220px;
-	border-radius: 50%;margin:10px;
-	border-bottom-right-radius: 5%;
-	margin: 0 auto;margin:10px;
-	-webkit-perspective: 1200px;
-	-moz-perspective: 1200px;
-	perspective: 1200px;
-	top: 6px;
-	float:left;
-	text-align: center;
+width: 220px;
+height: 220px;
+border-radius: 25%;
+margin: 10px;
+border-top-right-radius: 0%;
+margin: 0 auto;
+border-bottom-left-radius: 0%;
+margin: 10px;
+-webkit-perspective: 1200px;
+-moz-perspective: 1200px;
+perspective: 1200px;
+top: 6px;
+float: left;
+text-align: center;
 	}
 	.course_names
 	{
@@ -271,20 +274,24 @@ enlarged image should offset horizontally */
 <div class='content'>
 <div class='container'>
  <h2><strong>Courses</strong></h2>
-	<div id="fcSlideshow" class="fc-slideshow developers">
-		<div  class='course_names'>Developers</div>
-		
-		<div class='detailed'><a href='developers.php'>Learn More</a></div>
-	</div>
+	<div style='margin:0 auto;'>
+	<a href='developers.php'>
+		<div id="fcSlideshow" class="fc-slideshow developers">
+		<div  class='course_names'>MISSION & VISION</div>
+		</div>
+	</a>
 	
-	<div id="fcSlideshow" class="fc-slideshow administrators">
-		<div  class='course_names'>Administrators</div>
-		<div class='detailed'><a href='administrator.php'> Learn More</a></div>
-	</div>
+	<a href='administrator.php'>
+		<div id="fcSlideshow" class="fc-slideshow administrators">
+		<div  class='course_names'>EXECUTIVE BOARD</div>
+		</div>
+	</a>
 	
-	<div id="fcSlideshow" class="fc-slideshow analyst">
-		<div class='course_names'>Data Analysts</div>
-		<div class='detailed'><a href='analyst.php'>Learn More</a></div>
+	<a href='analyst.php'>
+		<div id="fcSlideshow" class="fc-slideshow analyst">
+		<div class='course_names'>OUR CLIENTS</div>
+		</div>
+	</a>
 	</div>
 	
 </div></div>
