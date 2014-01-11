@@ -100,6 +100,7 @@ enlarged image should offset horizontally */
 	margin-left:100px;}
 	
 </style>
+<?php include('header.php'); ?>
 <!-- content -->
 <div class='content'>
 <div class='container'>
