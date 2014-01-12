@@ -119,6 +119,9 @@
 		<li class="menu-blog dropdown">
 		<a href="courses.php">Training <i class="icon-angle-down"></i></a>
 		</li>
+		<li class="menu-blog dropdown">
+		<a href="careers.php">Careers <i class="icon-angle-down"></i></a>
+		</li>
 		<!--<li class="menu-portfolio dropdown">
 		<a href="#" class="dropdown-toggle" data-hash="">Big Data Lab <i class="icon-angle-down"></i></a>
 		</li>-->

@@ -62,17 +62,7 @@
                     
         <div id="builder-column-522fa3a75170b" class="span12 column_first">
         <div class="row-fluid">
-        <div class="span4 column_first">
-            <div class="feature-box">
-    			<div class="feature-box-icon">
-    				<i class="icon-file"></i>
-    			</div>
-    			<div class="feature-box-info">
-    				<h4 class="shorter">Careers</h4>
-    				<p class="tall">Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.</p>
-    			</div>
-    		</div>
-        </div>
+        
         <div class="span4">
             <div class="feature-box">
     			<div class="feature-box-icon">
@@ -80,8 +70,11 @@
     			</div>
     			<div class="feature-box-info">
     				<h4 class="shorter">Products And Services</h4>
-    				<p class="tall">Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.</p>
-    			</div>
+    				<p class="tall">Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.
+					<a href='#'>Read More</a>
+					</p>
+    			
+				</div>
     		</div>
         </div>
 		<div class="span4">
@@ -90,11 +83,26 @@
     				<i class="icon-film"></i>
     			</div>
     			<div class="feature-box-info">
-    				<h4 class="shorter">Products And Services</h4>
-    				<p class="tall">Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.</p>
+    				<h4 class="shorter">Training</h4>
+    				<p class="tall">Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.
+					<a href='courses.php'>Read More</a></p>
     			</div>
     		</div>
-        </div></div>
+        </div>
+		<div class="span4 column_first">
+            <div class="feature-box">
+    			<div class="feature-box-icon">
+    				<i class="icon-file"></i>
+    			</div>
+    			<div class="feature-box-info">
+    				<h4 class="shorter">Careers</h4>
+    				<p class="tall">Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.
+					<a href='careers.php'>Read More</a></p>
+    			</div>
+    		</div>
+        </div>
+		
+		</div>
         </div>
 
                 </div>

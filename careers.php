@@ -105,26 +105,29 @@ enlarged image should offset horizontally */
 <!-- content -->
 <div class='content'>
 <div class='container'>
- <h2><strong>About Us</strong></h2>
-	<div style='margin:0 auto;'>
-	<a href='developers.php'>
-		<div id="fcSlideshow" class="fc-slideshow developers">
-		<div  class='course_names'>MISSION & VISION</div>
-		</div>
-	</a>
-	
-	<a href='administrator.php'>
-		<div id="fcSlideshow" class="fc-slideshow administrators">
-		<div  class='course_names'>EXECUTIVE BOARD</div>
-		</div>
-	</a>
-	
-	<a href='analyst.php'>
-		<div id="fcSlideshow" class="fc-slideshow analyst">
-		<div class='course_names'>OUR CLIENTS</div>
-		</div>
-	</a>
-	</div>
+ <h2><strong>Careers</strong></h2>
+	<div id="builder-column-523aeb1b0e4fd" class="span12 col-md-12 column_first column_last">
+            <div id="builder-module-523aeb33c692f" class="module rich-text" style='padding: 5px;border: 1px solid #ddd;border-radius: 7px;width: 50%;'>
+<p class="lead">We have open positions for : </p>
+<ul>
+<li>Hadoop Developers</li>
+<li>Web Developers</li>
+<li>Instructors for our Training Courses</li>
+</ul>
+<p>Interested Candidates, please send resumes to
+<b>MOHITHA@PRAXIOTECH.COM</b><br><span style='font-size: 12px;'>*Please include full name and a phone number in either the resume or the email.</span></p>
+
+</div>
+<div id="builder-module-523aeb33c692f" class="module rich-text" ><br>
+<p class="lead">PRAXIO TECHNOLOGIES is a recruiting company focused on
+big data….</p>
+<p>Learn more <a href='about.php'>about us</a> OR ABOUT OUR CLIENTS AND PROJEcts... <p>
+</div>
+
+
+
+<hr class="">
+        </div>
 	
 </div></div>
 <!-- /content -->
