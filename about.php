@@ -105,23 +105,23 @@ enlarged image should offset horizontally */
 <!-- content -->
 <div class='content'>
 <div class='container'>
- <h2><strong>Courses</strong></h2>
+ <h2><strong>About Us</strong></h2>
 	<div style='margin:0 auto;'>
-	<a href='developers.php'>
+	<a href='#'>
 		<div id="fcSlideshow" class="fc-slideshow developers">
 		<div  class='course_names'>MISSION & VISION</div>
 		</div>
 	</a>
 	
-	<a href='administrator.php'>
+	<a href='#'>
 		<div id="fcSlideshow" class="fc-slideshow administrators">
 		<div  class='course_names'>EXECUTIVE BOARD</div>
 		</div>
 	</a>
 	
-	<a href='analyst.php'>
+	<a href='#'>
 		<div id="fcSlideshow" class="fc-slideshow analyst">
-		<div class='course_names'>OUR CLIENTS</div>
+		<div class='course_names'>OUR CLIENTS AND PROJECTS</div>
 		</div>
 	</a>
 	</div>

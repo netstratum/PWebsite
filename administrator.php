@@ -82,8 +82,8 @@ border:5px solid #1F81FF;background: #000;color:#fff;
 <!-- content -->
 <div class='content'>
 <div class='container'>
- <h2><strong>Administrators </strong>Path</h2>
-	<div class='dullViewcontent'>
+ <h2><strong>ADMINISTRATOR  </strong>TRACK </h2>
+	<!--<div class='dullViewcontent'>
 	<div id="fcSlideshow" class="fc-slideshow developers" style='overflow:hidden;float:left;width:50%'>
 		<h4 style='margin-top: 20px;color: #fff;font-size: 24px;text-align: left;margin-left: 4%;'>Introduction to the class</h4>
 		<iframe width="485" height="300" style='margin-top: 45px;' src="//www.youtube.com/embed/OvmbG00V7m8" frameborder="0" allowfullscreen></iframe>
@@ -131,7 +131,40 @@ border:5px solid #1F81FF;background: #000;color:#fff;
 	</div
 	
 	</div>
-</div></div>
+</div>-->
+<div id="builder-module-523aeb33c692f" class="module rich-text" style="padding: 15px;border: 1px solid #76B2F3;border-radius: 7px;margin: 0 auto;">
+	<p class="lead">COURSE OVERVIEW:</p>
+	<p>The course covers the fundamental concepts of Apache Hadoop and it’s ecosystem. It covers how to deploy, manage,
+monitor, and secure a Hadoop Cluster using Cloudera manager/HortonWorks Sandbox and Ambari. It also covers backups, high availability,
+federation and possible disaster recovery scenarios. In Hadoop’s echo system, we will cover basics about HBase, Pig, Flume, Hive, Impala, Sqoop
+and Oozie. <b>Guest lectures and practical labs including real life projects</b> provide skills to succeed in challenging work environment.</p>
+<p class="lead">OBJECTIVES:</p>
+<ul>
+<li>Basics of Hadoop along with it’s Ecosystem.</li>
+<li>HDFS and MapReduce.</li>
+<li>Hadoop cluster – setup, maintenance, monitoring, troubleshooting and recovery from failure.</li>
+<li>Load balancing, High availability & Federation.</li>
+<li>Hardware and network requirements and optimal configurations.</li>
+<li>Kerberos-based security for Hadoop cluster.</li>
+<li>Ecosystem - HBase, Pig, Flume, Hive, Impala, Sqoop and Oozie.</li>
+</ul>
+<p class="lead">LAB OVERVIEW:</p>
+<p>
+Each student set up a pseudo distributed single node cluster on their laptops. In addition, students will be shown how to run a
+larger ~4 to 8 node cluster in Rackspace along with real life data projects. The structure will consist of about 40% labs and 60% lecture. Hands-on
+exercises will be done throughout the course.
+</p>
+<p class="lead">PREREQUISITE & TARGET AUDIENCE:</p>
+<p>This course is designed for IT administrators and developers with some basic programming skills
+and knowledge of Linux. Existing knowledge of Hadoop is not required.</p>
+<p class="lead" style='width:50%;float:left'>DURATION:</p><p class="lead" style='width:50%;float:left'>PRICE:</p>
+<p>4-5 Days OR 32-40 Hours</p>
+<p><a href=''>Interested in teaching this course?</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=''>What would you like to see in this course?</a></p>
+
+	
+</div>
+
+</div>
 <!-- /content -->
         <!-- footer -->
 <?php include('footer.php');?>    

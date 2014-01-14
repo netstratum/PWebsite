@@ -55,80 +55,19 @@
 <div class='content'>
 <div class='container'>
  <h2><strong>Team Members</strong></h2>
-	<div class="two-col two-col-first">
-		<div class="faktory-team-main-info">
-			<a href="/justin/" target="_blank"> <div class="name h4">Abdul Nazeer</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
 	
-	<div class="two-col two-col-first">
-		
-		<div class="faktory-team-main-info">
-			<a href="/ajiraj/" target="_blank"> <div class="name h4">Alex Zeltov</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	
-	<div class="two-col two-col-first">
-		
-		<div class="faktory-team-main-info">
-			<a href="/billy/" target="_blank"> <div class="name h4">Anton Slutsky</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	<div class="two-col two-col-first">
-		<div class="faktory-team-main-info">
-			<a href="/justin/" target="_blank"> <div class="name h4">Brian Enochson</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	
-	<div class="two-col two-col-first">
-		
-		<div class="faktory-team-main-info">
-			<a href="/ajiraj/" target="_blank"> <div class="name h4">Manjeet Kasi</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	
-	<div class="two-col two-col-first">
-		
-		<div class="faktory-team-main-info">
-			<a href="/billy/" target="_blank"> <div class="name h4">Mike La Neve</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	<div class="two-col two-col-first">
-		<div class="faktory-team-main-info">
-			<a href="/justin/" target="_blank"> <div class="name h4">Mitesh Shah</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	
-	<div class="two-col two-col-first">
-		
-		<div class="faktory-team-main-info">
-			<a href="/ajiraj/" target="_blank"> <div class="name h4">Mohitha Sripathi</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	
-	<div class="two-col two-col-first">
-		
-		<div class="faktory-team-main-info">
-			<a href="/billy/" target="_blank"> <div class="name h4">Srinivas Konchada</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-	<div class="two-col two-col-first">
-		
-		<div class="faktory-team-main-info">
-			<a href="/billy/" target="_blank"> <div class="name h4">Vamsi Sistla</div> </a>
-			<div class="faktory-bio-info"><p>At vero eos et accusamus et iusto odios unsip  dignissimos ducimus qui blan ditiis prasixers esentium voluptatum un deleniti atquestepi sites excep no</p>
-			</div></div>
-	</div>
-
+<div id="builder-module-523aeb33c692f" class="module rich-text" style="padding: 5px;border: 1px solid #76B2F3;border-radius: 7px;width: 70%;margin: 0 auto;">
+		<div style='width:80%;margin:0 auto;text-align:center'><p>Abdul Nazeer</p><p>
+Alex Zeltov</p><p>
+Anton Slutsky</p><p>
+Brian Enochson</p><p>
+Manjeet Kasi</p><p>
+Mike La Neve</p><p>
+Mitesh Shah</p><p>
+Mohitha Sripathi</p><p>
+Srinivas Konchada</p><p>
+Vamsi Sistla</p>
+</div></div>
 </div>
 </div>
 <!-- /content -->
