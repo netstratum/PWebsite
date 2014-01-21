@@ -20,62 +20,10 @@
 						<div class="col-md-4">
 							<ul class="pricing-table basic">
 								<li class="title">
-									<p>DEVELOPER</p>
+									<p>Developer</p>
 									<!--
 									<span>Brand Reinforcement Ads</span>
 												-->
-								</li>
-								<li>
-									<p>Brand Reinforcement Ads</p>
-								</li>
-								<li>
-									<p>5 seconds</p>
-								</li>
-								<li>
-									<p>Short and Precise</p>
-								</li>
-								<li>
-									<p>Tag Line or a Jingle</p>
-								</li>
-								<li>
-                                    <a href="#developer">Learn More</a>
-                                </li>
-							</ul>
-						</div>
-
-						<div class="col-md-4">
-							<ul class="pricing-table standard">
-								<li class="title">
-									<p>ADMINISTRATOR</p>
-									<!--
-									<span>Product/Service Intro Ads</span>
-								-->
-								</li>
-								<li>
-									<p>Product/Service Intro Ads</p>
-								</li>
-								<li>
-									<p>10 seconds</p>
-								</li>
-								<li>
-									<p>Introduction of a New Product</p>
-								</li>
-								<li>
-									<p>Promotional Offers</p>
-								</li>
-								<li>
-                                    <a href="#">Register Now</a>
-                                </li>
-							</ul>
-						</div>
-
-						<div class="col-md-4">
-							<ul class="pricing-table basic">
-								<li class="title">
-									<p>DATA SCIENCE</p>
-									<!--
-									<span>Information Ads</span>
-								-->
 								</li>
 								<li>
 									<p>Big Data Analytics</p>
@@ -87,18 +35,76 @@
 									<p>With basic hadoop training</p>
 								</li>
 								<li>
-									<p>Table of contents</p>
+									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
-                                    <a href="#">Register Now</a>
+									<p>Price $</p>
+								</li>
+								<li>
+                                    <a href="#developer">Learn More</a>
+                                </li>
+							</ul>
+						</div>
+
+						<div class="col-md-4">
+							<ul class="pricing-table standard">
+								<li class="title">
+									<p>Administrator</p>
+									<span>Hadoop Administrator Course</span>
+
+								</li>
+								<li>
+									<p>Big Data Analytics</p>
+								</li>
+								<li>
+									<p>Mahoot and other tools</p>
+								</li>
+								<li>
+									<p>With basic hadoop training</p>
+								</li>
+								<li>
+									<p>4 to 5 Days OR 32 to 40 Hours</p>
+								</li>
+								<li>
+									<p>Price $</p>
+								</li>
+								<li>
+                                    <a href="#administrator">Learn More</a>
+                                </li>
+							</ul>
+						</div>
+
+						<div class="col-md-4">
+							<ul class="pricing-table basic">
+								<li class="title">
+									<p>Data Science</p>
+									<span>Big Data Analytics</span>
+								</li>
+								<li>
+									<p>Big Data Analytics</p>
+								</li>
+								<li>
+									<p>Mahoot and other tools</p>
+								</li>
+								<li>
+									<p>With basic hadoop training</p>
+								</li>
+								<li>
+									<p>4 to 5 Days OR 32 to 40 Hours</p>
+								</li>
+								<li>
+									<p>Price $</p>
+								</li>
+								<li>
+                                    <a href="#datascience">Learn More</a>
                                 </li>
 							</ul>
 						</div>
 					</div>
 
 					<div class="row">
-
-						<div class="col-md-4">
+						<br><br>
+						<div class="col-md-12">
 							<span class="anchor" id="developer"></span>
 							<h4>DEVELOPER</h4>
 							<p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
@@ -109,8 +115,11 @@
 								finally provide working knowledge of important advanced topics.
 							</p>
 						</div>
+					</div>
 
-						<div class="col-md-4">
+					<div class="row">
+						<div class="col-md-12">
+							<span class="anchor" id="administrator"></span>
 							<h4>ADMINISTRATOR</h4>
 							<p>The Ads in the diamond model are 10 seconds ads. Together with the reinforcement of the brands of 
 								the clients, these ads also aim at communicating a single line of content to the customers apart 
@@ -119,8 +128,11 @@
 								with the customers.
 							</p>
 						</div>
+					</div>
 
-						<div class="col-md-4">
+					<div class="row">
+						<div class="col-md-12">
+							<span class="anchor" id="datascience"></span>
 							<h4>DATA SCIENCE</h4>
 							<p>Platinum ads are 15 seconds ads which mainly aim at communicating a content with the customers more 
 								than reinforcing the brand. It can be a detailing into an offer for a limited period of time, or 
@@ -131,7 +143,6 @@
 						</div>
 
 					</div>
-					<br><br>
 
 				</div>
 			</div>
