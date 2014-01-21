@@ -106,12 +106,12 @@
 					<div class="row">
 						<div class="col-md-12">
 							<span class="anchor" id="developer"></span>
-							<ul class="nav trainingNavbar">
-								<li><h4>DEVELOPER</h4></li>
-								<li><i class="fa fa-pencil-square-o"></i>Register</li>
-								<li><i class="fa fa-clock-o"></i>Class Schedule</li>
-								<li><i class="fa fa-user"></i>Meet the Instructor</li>
-							</ul>
+							<h4>DEVELOPER</h4>
+							<div class="trainingNavRight">
+								<span><i class="fa fa-pencil-square-o"></i>Register</span>
+								<span><i class="fa fa-clock-o"></i>Class Schedule</span>
+								<span><i class="fa fa-user"></i>Meet the Instructor</span>
+							</div>
 							<p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
 								more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
 								is led by seasoned software engineers who have experience developing real work Big Data projects. 
