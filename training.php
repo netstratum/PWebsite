@@ -37,6 +37,9 @@
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
+									<p>Table of Contents</p>
+								</li>
+								<li>
 									<p>Price $</p>
 								</li>
 								<li>
@@ -65,6 +68,9 @@
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
+									<a download="files/Admin Course.docx"><p>Table of Contents</p></a>
+								</li>
+								<li>
 									<p>Price $</p>
 								</li>
 								<li>
@@ -90,6 +96,9 @@
 								</li>
 								<li>
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
+								</li>
+								<li>
+									<p>Table of Contents</p>
 								</li>
 								<li>
 									<p>Price $</p>
