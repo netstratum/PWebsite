@@ -56,10 +56,10 @@
 
 								</li>
 								<li>
-									<p>Big Data Analytics</p>
+									<p>Covers the fundamental concepts of Apache Hadoop and it’s ecosystem with an emphasis on lab work and in class projects</p>
 								</li>
 								<li>
-									<p>Mahoot and other tools</p>
+									<p>Designed for IT administrators and developers with some basic programming skills and knowledge of Linux. Existing knowledge of Hadoop is not required</p>
 								</li>
 								<li>
 									<p>With basic hadoop training</p>
