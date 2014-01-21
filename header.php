@@ -82,11 +82,11 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="/"><img alt="voiceflyers" src="images/voiceflyers.png"></a>
+						<a class="navbar-brand" href="/"><img alt="Praxio Technologies Private Limited" src="images/praxio-logo.png"></a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="/">Home</a></li>							
+							<li><a href="/"><img src="images/home.png" /></a></li>							
 							<li><a href="services.php">Services</a></li>
 							<li><a href="about.php">About Us</a></li>
 							<li><a href="contact.php">Contact Us</a></li>
