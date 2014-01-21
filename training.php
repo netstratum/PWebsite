@@ -4,10 +4,10 @@
 		<div id="content">
 		<div class="page-banner">
 				<div class="container">
-					<h2>Services</h2>
+					<h2>Training</h2>
 					<ul class="page-tree">
 						<li><a href="/">Home</a></li>
-						<li><a href="training.php">Services</a></li>
+						<li><a href="training.php">Training</a></li>
 					</ul>
 				</div>
 			</div>
