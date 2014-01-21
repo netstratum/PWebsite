@@ -71,7 +71,7 @@
 									<p>Price $</p>
 								</li>
 								<li>
-									<a href="files/Admin Course.docx" download="Admin Course.docx">Table of Contents</a>
+									<a href="files/AdminCourse.docx" download="Admin Course.docx">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#administrator">Learn More</a>
