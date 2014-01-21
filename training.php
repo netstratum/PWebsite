@@ -21,9 +21,8 @@
 							<ul class="pricing-table basic">
 								<li class="title">
 									<p>Developer</p>
-									<!--
-									<span>Brand Reinforcement Ads</span>
-												-->
+									<span>Hadoop ecosystem and components</span>
+												
 								</li>
 								<li>
 									<p>Big Data Analytics</p>
@@ -102,11 +101,17 @@
 						</div>
 					</div>
 
+					<br><hr><br>
+
 					<div class="row">
-						<br><br>
 						<div class="col-md-12">
 							<span class="anchor" id="developer"></span>
-							<h4>DEVELOPER</h4>
+							<ul class="nav trainingNavbar">
+								<li><h4>DEVELOPER</h4></li>
+								<li><i class="fa fa-pencil-square-o"></i>Register</li>
+								<li><i class="fa fa-clock-o"></i>Class Schedule</li>
+								<li><i class="fa fa-user"></i>Meet the Instructor</li>
+							</ul>
 							<p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
 								more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
 								is led by seasoned software engineers who have experience developing real work Big Data projects. 
@@ -116,6 +121,8 @@
 							</p>
 						</div>
 					</div>
+
+					<br><hr><br>
 
 					<div class="row">
 						<div class="col-md-12">
@@ -129,6 +136,8 @@
 							</p>
 						</div>
 					</div>
+
+					<br><hr><br>
 
 					<div class="row">
 						<div class="col-md-12">
