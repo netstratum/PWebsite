@@ -3,7 +3,7 @@
 		<footer>
 			<div class="footer-line">
 				<div class="container">
-					<p>&#169; 2014 Voice Flyers,  All Rights Reserved</p>
+					<p>&#169; 2014 Praxio Technologies Private Limited,  All Rights Reserved</p>
 					<a class="go-top" href="#"></a>
 				</div>
 			</div>

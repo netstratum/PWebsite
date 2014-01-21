@@ -19,9 +19,11 @@
 							<div class="contact-information">
 								<h3>Contact info</h3>
 								<ul class="contact-information-list">
-									<li><span><i class="fa fa-phone"></i>+91 949 535 4864</span></li>
-									<li><span><i class="fa fa-phone"></i>+91 967 761 5130</span></li>
-									<li><a href="#"><i class="fa fa-envelope"></i>support@voiceflyers.com</a></li>
+									<li><span><i class="fa fa-home"></i>20 Red Barn Lane</span></li>
+									<li><span style="padding-left: 23px;">Flemington, NJ 08822</span></li>
+									<li><span><i class="fa fa-phone"></i>(908) 313-3313</span></li>
+									<li><span><i class="fa fa-phone"></i>(908) 500-6037</span></li>
+									<li><a href="#"><i class="fa fa-envelope"></i>support@praxiotech.com</a></li>
 								</ul>
 							</div>
 						</div>

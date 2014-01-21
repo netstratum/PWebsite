@@ -3,7 +3,7 @@
 
 <html lang="en" class="no-js">
 <head>
-	<title>VoiceFlyers</title>
+	<title>Praxio Technologies</title>
 
 	<meta charset="utf-8">
 
@@ -60,13 +60,13 @@
 				<div class="top-line">
 					<div class="container">
 						<p>
-							<span><i class="fa fa-phone"></i>+91 949 535 4864</span>
-							<span><i class="fa fa-envelope-o"></i>support@voiceflyers.com</span>
+							<span><i class="fa fa-phone"></i>949 535 4864</span>
+							<span><i class="fa fa-envelope-o"></i><a href="contact.php">Contact Us</a></span>
 						</p>
 						<ul class="social-icons">
-							<li><a class="facebook" href="https://www.facebook.com/VFlyers"><i class="fa fa-facebook"></i></a></li>
-							<li><a class="twitter" href="https://twitter.com/VoiceFlyers"><i class="fa fa-twitter"></i></a></li>
-							<li><a class="google" href="https://plus.google.com/115546068023724910044"><i class="fa fa-google-plus"></i></a></li>
+							<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
 							<!--
 							<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
 							<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -87,9 +87,10 @@
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="/"><img src="images/home.png" /></a></li>							
-							<li><a href="services.php">Services</a></li>
-							<li><a href="about.php">About Us</a></li>
-							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="services.php">Products &amp; Solutions</a></li>
+							<li><a href="about.php">Training</a></li>
+							<li><a href="contact.php">Careers</a></li>
+							<li><a href="services.php">Technology Blog</a></li>
 						</ul>
 					</div>
 				</div>
