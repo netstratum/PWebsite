@@ -21,7 +21,7 @@
 							<ul class="pricing-table basic">
 								<li class="title">
 									<p>Developer</p>
-									<span>Hadoop ecosystem and components</span>
+									<span>Hadoop Developer Course</span>
 												
 								</li>
 								<li>
@@ -40,7 +40,7 @@
 									<p>Price $</p>
 								</li>
 								<li>
-									<a href="files/Admin Course.docx" download="Admin Course.docx">Table of Contents</a>
+									<a href="files/Developer Course.pdf" download="Developer Course.pdf">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#developer">Learn More</a>
@@ -71,7 +71,7 @@
 									<p>Price $</p>
 								</li>
 								<li>
-									<a href="files/AdminCourse.docx" download="Admin Course.docx">Table of Contents</a>
+									<a href="files/Admin Course.pdf" download="Admin Course.pdf">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#administrator">Learn More</a>
