@@ -68,7 +68,7 @@
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
-									<a download="files/Admin Course.docx"><p>Table of Contents</p></a>
+									<p><a download="files/Admin Course.docx">Table of Contents</a></p>
 								</li>
 								<li>
 									<p>Price $</p>
