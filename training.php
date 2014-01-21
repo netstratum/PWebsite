@@ -31,9 +31,6 @@
 									<p>Mahoot and other tools</p>
 								</li>
 								<li>
-									<p>With basic hadoop training</p>
-								</li>
-								<li>
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
@@ -41,6 +38,9 @@
 								</li>
 								<li>
 									<a href="files/Developer Course.pdf" target="_blank">Table of Contents</a>
+								</li>
+								<li>
+									<a href="#">Survey</a>
 								</li>
 								<li>
                                     <a href="#developer">Learn More</a>
@@ -62,9 +62,6 @@
 									<p>Designed for IT administrators and developers with some basic programming skills and knowledge of Linux. Existing knowledge of Hadoop is not required</p>
 								</li>
 								<li>
-									<p>With basic hadoop training</p>
-								</li>
-								<li>
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
@@ -72,6 +69,9 @@
 								</li>
 								<li>
 									<a href="files/Admin Course.pdf" target="_blank">Table of Contents</a>
+								</li>
+								<li>
+									<a href="#">Survey</a>
 								</li>
 								<li>
                                     <a href="#administrator">Learn More</a>
@@ -92,9 +92,6 @@
 									<p>Mahoot and other tools</p>
 								</li>
 								<li>
-									<p>With basic hadoop training</p>
-								</li>
-								<li>
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
@@ -102,6 +99,9 @@
 								</li>
 								<li>
 									<a href="files/Admin Course.docx" target="_blank">Table of Contents</a>
+								</li>
+								<li>
+									<a href="#">Survey</a>
 								</li>
 								<li>
                                     <a href="#datascience">Learn More</a>
