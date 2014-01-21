@@ -23,7 +23,9 @@
 									<li><span style="padding-left: 23px;">Flemington, NJ 08822</span></li>
 									<li><span><i class="fa fa-phone"></i>(908) 313-3313</span></li>
 									<li><span><i class="fa fa-phone"></i>(908) 500-6037</span></li>
+									<!--
 									<li><a href="#"><i class="fa fa-envelope"></i>support@praxiotech.com</a></li>
+								-->
 								</ul>
 							</div>
 						</div>

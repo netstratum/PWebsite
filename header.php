@@ -60,7 +60,7 @@
 				<div class="top-line">
 					<div class="container">
 						<p>
-							<span><i class="fa fa-phone"></i>949 535 4864</span>
+							<span><i class="fa fa-phone"></i>(908) 313-3313</span>
 							<span><i class="fa fa-envelope-o"></i><a href="contact.php">Contact Us</a></span>
 						</p>
 						<ul class="social-icons">
@@ -82,15 +82,16 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="/"><img alt="Praxio Technologies Private Limited" src="images/praxio-logo.png"></a>
+						<a class="navbar-brand" href="/"><img alt="Praxio Technologies Private Limited" src="images/praxio-logo.png" style="height: 60px;
+width: 175px"></a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="/"><img src="images/home.png" /></a></li>							
-							<li><a href="services.php">Products &amp; Solutions</a></li>
-							<li><a href="about.php">Training</a></li>
-							<li><a href="contact.php">Careers</a></li>
-							<li><a href="services.php">Technology Blog</a></li>
+							<li><a href="/">HOME</a></li>							
+							<li><a href="products.php">Products &amp; Solutions</a></li>
+							<li><a href="training.php">Training</a></li>
+							<li><a href="careers.php">Careers</a></li>
+							<li><a href="blog.php">Technology Blog</a></li>
 						</ul>
 					</div>
 				</div>
