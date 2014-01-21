@@ -40,7 +40,7 @@
 									<p>Price $</p>
 								</li>
 								<li>
-									<a href="files/Developer Course.pdf" download="Developer Course.pdf">Table of Contents</a>
+									<a href="files/Developer Course.pdf">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#developer">Learn More</a>
@@ -71,7 +71,7 @@
 									<p>Price $</p>
 								</li>
 								<li>
-									<a href="files/Admin Course.pdf" download="Admin Course.pdf">Table of Contents</a>
+									<a href="files/Admin Course.pdf">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#administrator">Learn More</a>
@@ -101,7 +101,7 @@
 									<p>Price $</p>
 								</li>
 								<li>
-									<a href="files/Admin Course.docx" download="Admin Course.docx">Table of Contents</a>
+									<a href="files/Admin Course.docx">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#datascience">Learn More</a>
