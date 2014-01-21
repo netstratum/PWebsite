@@ -3422,3 +3422,25 @@ p.work-time span {
 .slider-caption .flex-control-nav {
     bottom: -80px;
 }
+
+.trainingNavRight{
+    float: right;
+    margin-top: -40px;
+}
+
+.trainingNavRight span{
+    display: inline-block;
+    color: #253135;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 16px;
+    margin-right: 13px;
+}
+
+.trainingNavRight span i{
+    color: #0077f9;
+    font-size: 14px;
+    vertical-align: middle;
+    display: inline-block;
+    padding: 0 10px;
+}

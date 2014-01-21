@@ -108,9 +108,9 @@
 							<span class="anchor" id="developer"></span>
 							<h4>DEVELOPER</h4>
 							<div class="trainingNavRight">
-								<span><i class="fa fa-pencil-square-o"></i>Register</span>
-								<span><i class="fa fa-clock-o"></i>Class Schedule</span>
-								<span><i class="fa fa-user"></i>Meet the Instructor</span>
+								<a href="#"><span><i class="fa fa-pencil-square-o"></i>Register</span></a>
+								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
+								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
 							<p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
 								more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
@@ -128,6 +128,11 @@
 						<div class="col-md-12">
 							<span class="anchor" id="administrator"></span>
 							<h4>ADMINISTRATOR</h4>
+							<div class="trainingNavRight">
+								<a href="#"><span><i class="fa fa-pencil-square-o"></i>Register</span></a>
+								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
+								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
+							</div>
 							<p>The Ads in the diamond model are 10 seconds ads. Together with the reinforcement of the brands of 
 								the clients, these ads also aim at communicating a single line of content to the customers apart 
 								from the recall and reinforcement. It can be a very brief introduction of a new product, a new 
@@ -143,6 +148,11 @@
 						<div class="col-md-12">
 							<span class="anchor" id="datascience"></span>
 							<h4>DATA SCIENCE</h4>
+							<div class="trainingNavRight">
+								<a href="#"><span><i class="fa fa-pencil-square-o"></i>Register</span></a>
+								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
+								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
+							</div>
 							<p>Platinum ads are 15 seconds ads which mainly aim at communicating a content with the customers more 
 								than reinforcing the brand. It can be a detailing into an offer for a limited period of time, or 
 								guiding the customers for more information into a client outlet or to the client’s website or even 
