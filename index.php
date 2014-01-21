@@ -276,7 +276,7 @@
 			<div class="welcome-box">
 				<div class="container">
 					<h1>Welcome To <span>Praxio Technologies</span></h1>
-					<p>We’re a...</p><br>
+					<p>We are a...</p><br>
 					<p>Learn more <a href="about.php">about us</a></p>
 				</div>
 			</div>
@@ -289,7 +289,7 @@
 
 						<div class="col-md-4">
 							<div class="services-post">
-								<a class="services-icon1" href="#"><i class="fa fa-users"></i></a>
+								<a class="services-icon1" href="#"><i class="fa fa-cogs"></i></a>
 								<div class="services-post-content">
 									<h4>PRODUTS &amp; SOLUTIONS</h4>
 									<p>Voice Flyers is a company that is into new age marketing of products and services focusing 
@@ -306,7 +306,7 @@
 
 						<div class="col-md-4">
 							<div class="services-post">
-								<a class="services-icon2" href="#"><i class="fa fa-bullhorn"></i></a>
+								<a class="services-icon2" href="#"><i class="fa fa-users"></i></a>
 								<div class="services-post-content">
 									<h4>TRAINING</h4>
 									<p>Voice Flyers as a company has access to more than 1,00,000 registered users who are willing to 
@@ -322,7 +322,7 @@
 
 						<div class="col-md-4">
 							<div class="services-post">
-								<a class="services-icon3" href="#"><i class="fa fa-phone"></i></a>
+								<a class="services-icon3" href="#"><i class="fa fa-signal"></i></a>
 								<div class="services-post-content">
 									<h4>CAREERS</h4>
 									<p>With more advertising companies than the actual number of existing brands, it would be 

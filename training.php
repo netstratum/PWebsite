@@ -7,17 +7,17 @@
 					<h2>Services</h2>
 					<ul class="page-tree">
 						<li><a href="/">Home</a></li>
-						<li><a href="services.php">Services</a></li>
+						<li><a href="training.php">Services</a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="pricing-box">
 				<div class="container">
-					<h3>Packages</h3>
+	
 					<div class="row">
 
 						<div class="col-md-4">
-							<h4>Gold</h4>
+							<h4>DEVELOPER</h4>
 							<p>These are short and precise ads which aim completely aimed at brand reinforcements. The ads can be in 
 								the form of a tag line or a jingle of 5 seconds. Hence the gold segment ads of voice flyers are 
 								suitable for those brands which are already familiar with the customers, but a continuous 
@@ -27,7 +27,7 @@
 						</div>
 
 						<div class="col-md-4">
-							<h4>Diamond</h4>
+							<h4>ADMINISTRATOR</h4>
 							<p>The Ads in the diamond model are 10 seconds ads. Together with the reinforcement of the brands of 
 								the clients, these ads also aim at communicating a single line of content to the customers apart 
 								from the recall and reinforcement. It can be a very brief introduction of a new product, a new 
@@ -37,7 +37,7 @@
 						</div>
 
 						<div class="col-md-4">
-							<h4>Platinum</h4>
+							<h4>DATA SCIENCE</h4>
 							<p>Platinum ads are 15 seconds ads which mainly aim at communicating a content with the customers more 
 								than reinforcing the brand. It can be a detailing into an offer for a limited period of time, or 
 								guiding the customers for more information into a client outlet or to the client’s website or even 
@@ -48,13 +48,13 @@
 
 					</div>
 					<br><br>
-					<h3>Pricings</h3>
+					<h3>More Details</h3>
 					<div class="row">
 
 						<div class="col-md-4">
 							<ul class="pricing-table basic">
 								<li class="title">
-									<p>Gold</p>
+									<p>DEVELOPER</p>
 									<!--
 									<span>Brand Reinforcement Ads</span>
 												-->
@@ -71,13 +71,16 @@
 								<li>
 									<p>Tag Line or a Jingle</p>
 								</li>
+								<li>
+                                    <a href="#">Register Now</a>
+                                </li>
 							</ul>
 						</div>
 
 						<div class="col-md-4">
 							<ul class="pricing-table standard">
 								<li class="title">
-									<p>Diamond</p>
+									<p>ADMINISTRATOR</p>
 									<!--
 									<span>Product/Service Intro Ads</span>
 								-->
@@ -94,29 +97,35 @@
 								<li>
 									<p>Promotional Offers</p>
 								</li>
+								<li>
+                                    <a href="#">Register Now</a>
+                                </li>
 							</ul>
 						</div>
 
 						<div class="col-md-4">
 							<ul class="pricing-table basic">
 								<li class="title">
-									<p>Platinum</p>
+									<p>DATA SCIENCE</p>
 									<!--
 									<span>Information Ads</span>
 								-->
 								</li>
 								<li>
-									<p>Information Ads</p>
+									<p>Big Data Analytics</p>
 								</li>
 								<li>
-									<p>15 seconds</p>
+									<p>Mahoot and other tools</p>
 								</li>
 								<li>
-									<p>Much More Detailed</p>
+									<p>With basic hadoop training</p>
 								</li>
 								<li>
-									<p>Awareness About the Product</p>
+									<p>Table of contents</p>
 								</li>
+								<li>
+                                    <a href="#">Register Now</a>
+                                </li>
 							</ul>
 						</div>
 					</div>
