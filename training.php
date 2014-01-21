@@ -37,10 +37,10 @@
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
-									<p>Table of Contents</p>
+									<p>Price $</p>
 								</li>
 								<li>
-									<p>Price $</p>
+									<a href="files/Admin Course.docx" download="Admin Course.docx">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#developer">Learn More</a>
@@ -68,10 +68,10 @@
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
-									<a download="files/Admin Course.docx">Table of Contents</a>
+									<p>Price $</p>
 								</li>
 								<li>
-									<p>Price $</p>
+									<a href="files/Admin Course.docx" download="Admin Course.docx">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#administrator">Learn More</a>
@@ -98,10 +98,10 @@
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
-									<p>Table of Contents</p>
+									<p>Price $</p>
 								</li>
 								<li>
-									<p>Price $</p>
+									<a href="files/Admin Course.docx" download="Admin Course.docx">Table of Contents</a>
 								</li>
 								<li>
                                     <a href="#datascience">Learn More</a>
