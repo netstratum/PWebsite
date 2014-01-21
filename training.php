@@ -121,12 +121,24 @@
 								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
 								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
-							<p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
+							<p><h5>Course Overview : </h5>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
 								more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
 								is led by seasoned software engineers who have experience developing real work Big Data projects. 
+								<br><h5>Objectives : </h5>
 								Goal is for the student to gain a thorough understanding of the Hadoop ecosystem, basic operational 
 								considerations provide them with knowledge of how to develop applications using Hadoop with Java and 
 								finally provide working knowledge of important advanced topics.
+								<br><h5>Lab Overview : </h5>
+								The lab is a student tailored project that will bring together the various concepts learned during the course. 
+								Together with the instructor the student will design a project that can use an existing or one their own 
+								data sets. This project concept will be determined at the beginning of class, allowing the student to take 
+								the concepts taught and apply them to a project tailored to their need/liking.
+								<br><h5>Prerequisite &amp; Target Audience : </h5>
+								This course is designed for Developers, students and technical managers who want to learn to implement 
+								Hadoop MapReduce jobs or manage Big data projects. The course is ideal for experienced software developers 
+								who have experience in traditional data management technologies and want to upgrade their skills.
+								<br><h5>Duration : </h5> 4-5 Days OR 32-40 Hours	
+								<br><h5>Price : </h5> 
 							</p>
 						</div>
 					</div>
@@ -142,11 +154,27 @@
 								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
 								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
-							<p>The Ads in the diamond model are 10 seconds ads. Together with the reinforcement of the brands of 
-								the clients, these ads also aim at communicating a single line of content to the customers apart 
-								from the recall and reinforcement. It can be a very brief introduction of a new product, a new 
-								outlet or maybe even an offer. Hence, these ads play a dual purpose of reinforcement and communication 
-								with the customers.
+							<p><h5>Course Overview : </h5>The course covers the fundamental concepts of Apache Hadoop and it’s ecosystem. 
+								It covers how to deploy, manage, monitor, and secure a Hadoop Cluster using Cloudera manager/HortonWorks 
+								Sandbox and Ambari. It also covers backups, high availability, federation and possible disaster recovery 
+								scenarios. In Hadoop’s echo system, we will cover basics about HBase, Pig, Flume, Hive, Impala, Sqoop 
+								and Oozie. Guest lectures and practical labs including real life projects provide skills to succeed 
+								in challenging work environment.
+								<br><h5>Objectives : </h5>
+								Basics of Hadoop along with it’s Ecosystem. HDFS and MapReduce. Hadoop cluster – setup, maintenance, 
+								monitoring, troubleshooting and recovery from failure. Load balancing, High availability &amp; Federation.
+								Hardware and network requirements and optimal configurations. Kerberos-based security for Hadoop cluster.
+								Ecosystem - HBase, Pig, Flume, Hive, Impala, Sqoop and Oozie.
+								<br><h5>Lab Overview : </h5>
+								ach student set up a pseudo distributed single node cluster on their laptops. In addition, students 
+								will be shown how to run a larger ~4 to 8 node cluster in Rackspace along with real life data projects. 
+								The structure will consist of about 40% labs and 60% lecture. Hands-on exercises will be done throughout 
+								the course.
+								<br><h5>Prerequisite &amp; Target Audience : </h5>
+								This course is designed for IT administrators and developers with some basic programming skills and 
+								knowledge of Linux. Existing knowledge of Hadoop is not required.
+								<br><h5>Duration : </h5> 4-5 Days OR 32-40 Hours	
+								<br><h5>Price : </h5> 
 							</p>
 						</div>
 					</div>
@@ -162,11 +190,24 @@
 								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
 								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
-							<p>Platinum ads are 15 seconds ads which mainly aim at communicating a content with the customers more 
-								than reinforcing the brand. It can be a detailing into an offer for a limited period of time, or 
-								guiding the customers for more information into a client outlet or to the client’s website or even 
-								communicating the benefits of a service offered by the client to the customers. Hence, the initiation 
-								of a detailed enquiry by the customers to the client’s offerings is what is desired.
+							<p><h5>Course Overview : </h5>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
+								more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
+								is led by seasoned software engineers who have experience developing real work Big Data projects. 
+								<br><h5>Objectives : </h5>
+								Goal is for the student to gain a thorough understanding of the Hadoop ecosystem, basic operational 
+								considerations provide them with knowledge of how to develop applications using Hadoop with Java and 
+								finally provide working knowledge of important advanced topics.
+								<br><h5>Lab Overview : </h5>
+								The lab is a student tailored project that will bring together the various concepts learned during the course. 
+								Together with the instructor the student will design a project that can use an existing or one their own 
+								data sets. This project concept will be determined at the beginning of class, allowing the student to take 
+								the concepts taught and apply them to a project tailored to their need/liking.
+								<br><h5>Prerequisite &amp; Target Audience : </h5>
+								This course is designed for Developers, students and technical managers who want to learn to implement 
+								Hadoop MapReduce jobs or manage Big data projects. The course is ideal for experienced software developers 
+								who have experience in traditional data management technologies and want to upgrade their skills.
+								<br><h5>Duration : </h5> 4-5 Days OR 32-40 Hours	
+								<br><h5>Price : </h5> 
 							</p>
 						</div>
 
