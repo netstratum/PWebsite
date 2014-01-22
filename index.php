@@ -17,7 +17,7 @@
 						<!-- THE FIRST SLIDE -->
 						<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300">
 							<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-							<img alt="" src="upload/slider-revolution/2.jpg" >
+							<img alt="" src="upload/slider-revolution/1st.png" >
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 							<div class="caption large_text sfb"
@@ -121,7 +121,7 @@
 						<!-- THE second SLIDE -->
 						<li data-transition="papercut" data-slotamount="15" data-masterspeed="300">
 							<!-- THE MAIN IMAGE IN THE second SLIDE -->
-							<img alt="" src="upload/slider-revolution/1.gif" >
+							<img alt="" src="upload/slider-revolution/connected.png" >
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 
@@ -176,10 +176,9 @@
 						</li>
 
 						<!-- THE third SLIDE -->
-						<!--
 						<li data-transition="turnoff" data-slotamount="1" data-masterspeed="300">
 							
-							<img alt="" src="upload/slider-revolution/3.jpg" >
+							<img alt="" src="upload/slider-revolution/handson.png" >
 
 							
 							<div class="caption large_text sfb"
@@ -260,7 +259,112 @@
 								 data-start="2500"
 								 data-easing="easeOutExpo" data-end="8300" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon11.png" alt="Image 10"></div>
 						</li>
-					-->
+
+						<!-- THE Fourth SLIDE -->
+						<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300">
+							<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+							<img alt="" src="upload/slider-revolution/hiring.png" >
+
+							<!-- THE CAPTIONS IN THIS SLDIE -->
+							<div class="caption large_text sfb"
+								 data-x="170"
+								 data-y="128"
+								 data-speed="600"
+								 data-start="1200"
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Welcome to the one and only VOIP Advertising Company</div>
+
+							<div class="caption big_white sft stt"
+								 data-x="370"
+								 data-y="185"
+								 data-speed="500"
+								 data-start="1400"
+								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><span>Voice Flyers - A new medium of Advertising</span></div>
+
+							<div class="caption randomrotate"
+								 data-x="0"
+								 data-y="244"
+								 data-speed="600"
+								 data-start="1600"
+								 data-easing="easeOutExpo" data-end="7200" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon1.png" alt="Image 1"></div>
+
+							<div class="caption modern_small_text_dark sft"
+								 data-x="45"
+								 data-y="360"
+								 data-speed="600"
+								 data-start="1700"
+								 data-easing="easeOutExpo" data-end="7350" data-endspeed="300" data-endeasing="easeInSine" >Lovely design</div>
+
+							<div class="caption randomrotate"
+								 data-x="200"
+								 data-y="244"
+								 data-speed="600"
+								 data-start="1800"
+								 data-easing="easeOutExpo" data-end="7400" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon2.png" alt="Image 2"></div>
+
+							<div class="caption modern_small_text_dark sft"
+								 data-x="222"
+								 data-y="360"
+								 data-speed="600"
+								 data-start="1900"
+								 data-easing="easeOutExpo" data-end="7450" data-endspeed="300" data-endeasing="easeInSine" >Highly Customizable</div>
+
+							<div class="caption randomrotate"
+								 data-x="400"
+								 data-y="244"
+								 data-speed="600"
+								 data-start="2000"
+								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon3.png" alt="Image 3"></div>
+
+							<div class="caption modern_small_text_dark sft"
+								 data-x="429"
+								 data-y="360"
+								 data-speed="600"
+								 data-start="2100"
+								 data-easing="easeOutExpo" data-end="7550" data-endspeed="300" data-endeasing="easeInSine" >Optimized Images</div>
+
+							<div class="caption randomrotate"
+								 data-x="600"
+								 data-y="244"
+								 data-speed="600"
+								 data-start="2200"
+								 data-easing="easeOutExpo" data-end="7600" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon4.png" alt="Image 4"></div>
+
+							<div class="caption modern_small_text_dark sft"
+								 data-x="641"
+								 data-y="360"
+								 data-speed="600"
+								 data-start="2300"
+								 data-easing="easeOutExpo" data-end="7650" data-endspeed="300" data-endeasing="easeInSine" >5 Star Support</div>
+
+							<div class="caption randomrotate"
+								 data-x="800"
+								 data-y="244"
+								 data-speed="600"
+								 data-start="2400"
+								 data-easing="easeOutExpo" data-end="7700" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon5.png" alt="Image 5"></div>
+
+							<div class="caption modern_small_text_dark sft"
+								 data-x="838"
+								 data-y="360"
+								 data-speed="600"
+								 data-start="2500"
+								 data-easing="easeOutExpo" data-end="7750" data-endspeed="300" data-endeasing="easeInSine" >Update Notifier</div>
+
+							<div class="caption randomrotate"
+								 data-x="1000"
+								 data-y="244"
+								 data-speed="600"
+								 data-start="2600"
+								 data-easing="easeOutExpo" data-end="7800" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon6.png" alt="Image 6"></div>
+
+							<div class="caption modern_small_text_dark sft"
+								 data-x="1047"
+								 data-y="360"
+								 data-speed="600"
+								 data-start="2700"
+								 data-easing="easeOutExpo" data-end="7850" data-endspeed="300" data-endeasing="easeInSine" >Fast Loading</div>
+						</li>
+
 					</ul>
 				</div>
 			</div>
