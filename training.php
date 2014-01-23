@@ -25,19 +25,13 @@
 												
 								</li>
 								<li>
-									<p>Big Data Analytics</p>
+									<p>For experienced software developers who have experience in traditional data management technologies and want to upgrade their skills</p>
 								</li>
 								<li>
-									<p>Mahoot and other tools</p>
-								</li>
-								<li>
-									<p>4 to 5 Days OR 32 to 40 Hours</p>
+									<p>32-40 hours</p>
 								</li>
 								<li>
 									<p>Price $</p>
-								</li>
-								<li>
-									<a href="files/Developer Course.pdf" target="_blank">Table of Contents</a>
 								</li>
 								<li>
 									<a href="#">Survey</a>
@@ -56,19 +50,13 @@
 
 								</li>
 								<li>
-									<p>Covers the fundamental concepts of Apache Hadoop and it’s ecosystem with an emphasis on lab work and in class projects</p>
+									<p>For IT Administrators and Developers with knowledge of basic programming and Linux</p>
 								</li>
 								<li>
-									<p>Designed for IT administrators and developers with some basic programming skills and knowledge of Linux. Existing knowledge of Hadoop is not required</p>
-								</li>
-								<li>
-									<p>4 to 5 Days OR 32 to 40 Hours</p>
+									<p>32-40 hours</p>
 								</li>
 								<li>
 									<p>Price $</p>
-								</li>
-								<li>
-									<a href="files/Admin Course.pdf" target="_blank">Table of Contents</a>
 								</li>
 								<li>
 									<a href="#">Survey</a>
@@ -86,19 +74,13 @@
 									<span>Big Data Analytics</span>
 								</li>
 								<li>
-									<p>Big Data Analytics</p>
-								</li>
-								<li>
-									<p>Mahoot and other tools</p>
+									<p>Big Data Analytics, Mahoot and other tools</p>
 								</li>
 								<li>
 									<p>4 to 5 Days OR 32 to 40 Hours</p>
 								</li>
 								<li>
 									<p>Price $</p>
-								</li>
-								<li>
-									<a href="files/Admin Course.docx" target="_blank">Table of Contents</a>
 								</li>
 								<li>
 									<a href="#">Survey</a>
@@ -118,7 +100,7 @@
 							<h4>DEVELOPER</h4>
 							<div class="trainingNavRight">
 								<a href="#"><span><i class="fa fa-pencil-square-o"></i>Register</span></a>
-								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
+								<a href="files/Developer Course.pdf" target="_blank"><span><i class="fa fa-list "></i>Table of Contents</span></a>
 								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
 							<h5>Course Overview : </h5><p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
@@ -151,7 +133,7 @@
 							<h4>ADMINISTRATOR</h4>
 							<div class="trainingNavRight">
 								<a href="#"><span><i class="fa fa-pencil-square-o"></i>Register</span></a>
-								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
+								<a href="files/Admin Course.pdf" target="_blank"><span><i class="fa fa-list "></i>Table of Contents</span></a>
 								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
 							<h5>Course Overview : </h5><p>The course covers the fundamental concepts of Apache Hadoop and it’s ecosystem. 
@@ -187,7 +169,7 @@
 							<h4>DATA SCIENCE</h4>
 							<div class="trainingNavRight">
 								<a href="#"><span><i class="fa fa-pencil-square-o"></i>Register</span></a>
-								<a href="#"><span><i class="fa fa-clock-o"></i>Class Schedule</span></a>
+								<a href="files/Data Science Course.pdf" target="_blank"><span><i class="fa fa-list "></i>Table of Contents</span></a>
 								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
 							<h5>Course Overview : </h5><p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
