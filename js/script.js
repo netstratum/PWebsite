@@ -8,6 +8,11 @@ $(document).ready(function($) {
 
 	$("a[href*='" + location.pathname + "']").addClass("active");
 
+	//accordion collapse
+	$('.learnmore').click(function(event) {
+		console.log('learnmore clicked');
+	});
+
 	/*-------------------------------------------------*/
 	/* =  portfolio isotope
 	/*-------------------------------------------------*/

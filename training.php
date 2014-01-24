@@ -34,7 +34,7 @@
             <a href="#">Survey</a>
          </li>
          <li>
-            <a href="#developer">Learn More</a>
+            <a class="learnmore" href="#developer">Learn More</a>
          </li>
       </ul>
    </div>
@@ -57,7 +57,7 @@
             <a href="#">Survey</a>
          </li>
          <li>
-            <a href="#administrator">Learn More</a>
+            <a class="learnmore" href="#administrator">Learn More</a>
          </li>
       </ul>
    </div>
@@ -80,7 +80,7 @@
             <a href="#">Survey</a>
          </li>
          <li>
-            <a href="#datascience">Learn More</a>
+            <a class="learnmore" href="#datascience">Learn More</a>
          </li>
       </ul>
    </div>
