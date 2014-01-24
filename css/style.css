@@ -3445,6 +3445,14 @@ p.work-time span {
     padding: 0 10px;
 }
 
+.modal-dialog{
+    width: 850px;
+}
+
+.modal-body{
+    overflow: hidden;
+}
+
 .modal-body p{
     padding: 40px;
     text-align: justify;
