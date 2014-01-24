@@ -206,14 +206,13 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-          <h4 class="modal-title">Modal title</h4>
+          <h4 class="modal-title">Brian Enochson </h4>
         </div>
         <div class="modal-body">
           	<div class="left">
 				<img src="images/brian_portrait.JPG"></img>
 			</div>
 			<div class="right">
-				<h3>Brian Enochson </h3>
 		          <p>Brian Enochson is an independent software developer, consultant, and trainer living on the Jersey Shore. 
 		          	He spends his time working on high throughput applications and tackling NoSQL, Big Data, and machine 
 		          	learning problems. Passionate about helping others through writing, mentoring, and training, Brian also 
