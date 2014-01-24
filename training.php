@@ -104,6 +104,7 @@
       </div>
       <div id="developer" class="panel-collapse collapse">
          <div class="panel-body">
+            <span class="anchor" id="developer"></span>
             <h5>Course Overview : </h5>
             <p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
                more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
@@ -152,6 +153,7 @@
       </div>
       <div id="administrator" class="panel-collapse collapse">
          <div class="panel-body">
+            <span class="anchor" id="administrator"></span>
             <h5>Course Overview : </h5>
             <p>The course covers the fundamental concepts of Apache Hadoop and it’s ecosystem. 
                It covers how to deploy, manage, monitor, and secure a Hadoop Cluster using Cloudera manager/HortonWorks 
@@ -204,6 +206,7 @@
       </div>
       <div id="datascience" class="panel-collapse collapse">
          <div class="panel-body">
+            <span class="anchor" id="datascience"></span>
             <h5>Course Overview : </h5>
             <p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
                more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
