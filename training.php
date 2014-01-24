@@ -89,6 +89,8 @@
 <hr>
 <br>
 <div class="panel-group" id="accordion">
+   <div class="row">
+      <div class="col-md-12">
          <span class="anchor" id="developer"></span>
          <div class="panel panel-default">
             <div class="panel-heading">
@@ -103,7 +105,7 @@
                   <a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
                </div>
             </div>
-            <div id="collapseOne" class="panel-collapse collapse in">
+            <div id="developer" class="panel-collapse collapse in">
                <div class="panel-body">
                   <h5>Course Overview : </h5>
                   <p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
@@ -135,10 +137,12 @@
                   <br>
                   <h5>Price : </h5>
                </div>
-            
+            </div>
+         </div>
       </div>
    </div>
-   
+   <div class="row">
+      <div class="col-md-12">
          <span class="anchor" id="administrator"></span>
          <div class="panel panel-default">
             <div class="panel-heading">
@@ -153,7 +157,7 @@
                   <a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
                </div>
             </div>
-            <div id="collapseOne" class="panel-collapse collapse in">
+            <div id="administrator" class="panel-collapse collapse in">
                <div class="panel-body">
                   <h5>Course Overview : </h5>
                   <p>The course covers the fundamental concepts of Apache Hadoop and it’s ecosystem. 
@@ -189,9 +193,11 @@
                   <h5>Price : </h5>
                </div>
             </div>
-         
+         </div>
+      </div>
    </div>
-   
+   <div class="row">
+      <div class="col-md-12">
          <span class="anchor" id="datascience"></span>
          <div class="panel panel-default">
             <div class="panel-heading">
@@ -206,7 +212,7 @@
                   <a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
                </div>
             </div>
-            <div id="collapseOne" class="panel-collapse collapse in">
+            <div id="datascience" class="panel-collapse collapse in">
                <div class="panel-body">
                   <h5>Course Overview : </h5>
                   <p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
@@ -239,7 +245,8 @@
                   <h5>Price : </h5>
                </div>
             </div>
-         
+         </div>
+      </div>
    </div>
 </div>
 <!-- End content -->
