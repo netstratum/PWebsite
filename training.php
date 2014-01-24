@@ -101,7 +101,7 @@
 							<div class="trainingNavRight">
 								<a href="#"><span><i class="fa fa-pencil-square-o"></i>Register</span></a>
 								<a href="files/Developer Course.pdf" target="_blank"><span><i class="fa fa-list "></i>Table of Contents</span></a>
-								<a href="#"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
+								<a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
 							</div>
 							<h5>Course Overview : </h5><p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
 								more detail and be tailored more to the real world than other Hadoop course offered. The instruction 
@@ -199,3 +199,22 @@
 		</div>
 		<!-- End content -->
 <?php include('footer.php'); ?>
+
+<!-- Modal -->
+  <div class="modal fade" id="devloperInstructor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 class="modal-title">Modal title</h4>
+        </div>
+        <div class="modal-body">
+          ...
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Save changes</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
