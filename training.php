@@ -204,7 +204,7 @@
             <a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
          </div>
       </div>
-      <div id="datascience" class="panel-collapse collapse">
+      <div id="datascience" class="panel-collapse collapse in">
          <div class="panel-body">
             <span class="anchor" id="datascience"></span>
             <h5>Course Overview : </h5>
