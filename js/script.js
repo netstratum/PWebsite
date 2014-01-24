@@ -10,7 +10,7 @@ $(document).ready(function($) {
 
 	//accordion collapse
 	$('.learnmore').click(function(event) {
-		var id = this.href.substring(this.href.indexOf('#')+1);
+		var id = this.href.substring(this.href.indexOf('#'));
 		$('.panel-collapse').collapse('hide');
 		setTimeout(function(){$(id).collapse('show');}, 1000);
 	});
