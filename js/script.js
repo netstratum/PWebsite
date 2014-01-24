@@ -12,7 +12,7 @@ $(document).ready(function($) {
 	$('.learnmore').click(function(event) {
 		var id = this.href.substring(this.href.indexOf('#')+1);
 		$('.panel-collapse').collapse('hide');
-		setTimeout(function(e){$(id).collapse('show');}, 1000);
+		setTimeout(function(){$(id).collapse('show');}, 1000);
 	});
 
 	/*-------------------------------------------------*/
