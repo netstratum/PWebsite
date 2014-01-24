@@ -93,11 +93,10 @@
 					</div>
 
 					<br><hr><br>
-
-					<div class="row">
-						<div class="col-md-12">
-					
-							<div class="panel-group" id="accordion">
+					<div class="panel-group" id="accordion">
+						<div class="row">
+							<div class="col-md-12">
+						
 							  <span class="anchor" id="developer"></span>
 							  <div class="panel panel-default">
 							    <div class="panel-heading">
@@ -139,7 +138,7 @@
 						</div>
 					</div>
 
-					<br><hr><br>
+				
 
 					<div class="row">
 						<div class="col-md-12">
@@ -187,7 +186,7 @@
 							</div>
 						</div>
 
-					<br><hr><br>
+	
 
 					<div class="row">
 						<div class="col-md-12">
