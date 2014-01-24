@@ -209,7 +209,20 @@
           <h4 class="modal-title">Modal title</h4>
         </div>
         <div class="modal-body">
-          ...
+          	<div class="left">
+				<img src="images/brian_portrait.JPG"></img>
+			</div>
+			<div class="right">
+				<h3>Brian Enochson </h3>
+		          <p>Brian Enochson is an independent software developer, consultant, and trainer living on the Jersey Shore. 
+		          	He spends his time working on high throughput applications and tackling NoSQL, Big Data, and machine 
+		          	learning problems. Passionate about helping others through writing, mentoring, and training, Brian also 
+		          	loves to learn from others and their experiences and is the main reason he likes to conduct training along 
+		          	the actual project work he is currently involved with. He is currently working as a consultant for a few 
+		          	organizations helping them with their software development and big data solutions. Brian has a M.S. in computer 
+		          	information systems from Boston University.
+		          </p>
+			</div>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

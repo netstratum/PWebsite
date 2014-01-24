@@ -3444,3 +3444,24 @@ p.work-time span {
     display: inline-block;
     padding: 0 10px;
 }
+
+.modal-body p{
+    padding: 40px;
+    text-align: justify;
+}
+
+.modal-body img{
+    width: 70%;
+    height: 50%;
+    padding: 50px;
+}
+
+.modal-body > .left{
+    float: left; 
+    width: 30%;
+}
+
+.modal-body > .right{
+    float: right; 
+    width: 70%
+}
