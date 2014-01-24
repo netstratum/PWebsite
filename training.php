@@ -102,7 +102,7 @@
             <a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
          </div>
       </div>
-      <div id="developer" class="panel-collapse collapse in">
+      <div id="developer" class="panel-collapse collapse">
          <div class="panel-body">
             <h5>Course Overview : </h5>
             <p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
@@ -150,7 +150,7 @@
             <a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
          </div>
       </div>
-      <div id="administrator" class="panel-collapse collapse in">
+      <div id="administrator" class="panel-collapse collapse">
          <div class="panel-body">
             <h5>Course Overview : </h5>
             <p>The course covers the fundamental concepts of Apache Hadoop and it’s ecosystem. 
@@ -202,7 +202,7 @@
             <a data-toggle="modal" href="#devloperInstructor"><span><i class="fa fa-user"></i>Meet the Instructor</span></a>
          </div>
       </div>
-      <div id="datascience" class="panel-collapse collapse in">
+      <div id="datascience" class="panel-collapse collapse">
          <div class="panel-body">
             <h5>Course Overview : </h5>
             <p>Complete overview of Hadoop, it’s components and implementation details. This course will go into 
