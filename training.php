@@ -31,7 +31,7 @@
             <p>Price $</p>
          </li>
          <li>
-            <a href="#">Survey</a>
+            <a data-toggle="modal" href="#devloperSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#developer">Learn More</a>
@@ -54,7 +54,7 @@
             <p>Price $</p>
          </li>
          <li>
-            <a href="#">Survey</a>
+            <a data-toggle="modal" href="#devloperSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#administrator">Learn More</a>
@@ -77,7 +77,7 @@
             <p>Price $</p>
          </li>
          <li>
-            <a href="#">Survey</a>
+            <a data-toggle="modal" href="#devloperSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#datascience">Learn More</a>
@@ -242,7 +242,7 @@
 </div>
 <!-- End content -->
 <?php include('footer.php'); ?>
-<!-- Modal -->
+<!--Meet the instructor Modal -->
 <div class="modal fade" id="devloperInstructor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
    <div class="modal-dialog">
       <div class="modal-content">
@@ -264,6 +264,47 @@
                   information systems from Boston University.
                </p>
             </div>
+         </div>
+         <div class="modal-footer">
+         </div>
+      </div>
+      <!-- /.modal-content -->
+   </div>
+   <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<!--Survey Modal -->
+<div class="modal fade" id="developerSurvey" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+         <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">Developer Survey</h4>
+         </div>
+         <div class="modal-body">
+               <form id="contact-form" class="contact-work-form2">
+                  <div class="text-input">
+                     <div class="float-input">
+                        <input name="name" id="name2" type="text" placeholder="name" required>
+                        <span><i class="fa fa-user"></i></span>
+                    </div>
+
+                     <div class="float-input2">
+                        <input name="mail" id="mail2" type="text" placeholder="email" required>
+                        <span><i class="fa fa-envelope"></i></span>
+                     </div>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" id="comment2" placeholder="message" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="msg2 message"></div>
+                  <input type="submit" name="mailing-submit" class="submit_contact main-form" value="Send Message">
+
+               </form>
          </div>
          <div class="modal-footer">
          </div>
