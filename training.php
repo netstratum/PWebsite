@@ -282,7 +282,7 @@
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
             <h4 class="modal-title" id="myModalLabel">Developer Survey</h4>
          </div>
-         <form id="contact-form" class="survey">
+         <form id="contact-form" class="contact-work-form2" style="margin-bottom: 0px;">
             <div class="modal-body">
                   <div class="text-input">
                      <div class="float-input">
