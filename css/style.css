@@ -2242,7 +2242,7 @@ ul.contact-information-list li i {
     padding-left: 36px;
 }
 
-#contact-form .surveyText textarea {
+textarea#contact-form.surveyText {
     height: 65px;
     padding-left: 36px;
 }
