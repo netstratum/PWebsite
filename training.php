@@ -31,7 +31,7 @@
             <p>Price $</p>
          </li>
          <li>
-            <a data-toggle="modal" href="#devloperSurvey">Survey</a>
+            <a data-toggle="modal" href="#developerSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#developer">Learn More</a>
@@ -54,7 +54,7 @@
             <p>Price $</p>
          </li>
          <li>
-            <a data-toggle="modal" href="#devloperSurvey">Survey</a>
+            <a data-toggle="modal" href="#developerSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#administrator">Learn More</a>
@@ -77,7 +77,7 @@
             <p>Price $</p>
          </li>
          <li>
-            <a data-toggle="modal" href="#devloperSurvey">Survey</a>
+            <a data-toggle="modal" href="#developerSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#datascience">Learn More</a>
