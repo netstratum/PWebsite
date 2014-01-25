@@ -77,7 +77,7 @@
             <p>Price $</p>
          </li>
          <li>
-            <a data-toggle="modal" href="#developerSurvey">Survey</a>
+            <a data-toggle="modal" href="#datascienceSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#datascience">Learn More</a>
@@ -376,6 +376,59 @@
             </div>
          <div class="modal-footer">
             <input type="submit" data-dismiss="modal" name="administratorSurvey-submit" class="submit_contact main-form" value="Submit">
+         </div>
+         </form>
+      </div>
+      <!-- /.modal-content -->
+   </div>
+   <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<!--Administrator Survey Modal -->
+<div class="modal fade" id="datascienceSurvey" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+         <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">Data Science Survey</h4>
+         </div>
+         <form id="contact-form" class="contact-work-form2" style="margin-bottom: 0px;">
+            <div class="modal-body">
+                  <div class="text-input">
+                     <div class="float-input">
+                        <input name="name" id="name2" type="text" placeholder="name" required>
+                        <span><i class="fa fa-user"></i></span>
+                    </div>
+
+                     <div class="float-input2">
+                        <input name="mail" id="mail2" type="text" placeholder="email" required>
+                        <span><i class="fa fa-envelope"></i></span>
+                     </div>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" class="surveyText" id="comment2" placeholder="What are you expecting to learn in an data science course?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" class="surveyText" id="comment2" placeholder="Are you interested in this course to get certified or to gain some practical experience to use in the real world?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" class="surveyText" id="comment2" placeholder="How should the course be split between theory, lab and projects?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" class="surveyText" id="comment2" placeholder="How long should a course of this content rigor be, in your opinion?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+            </div>
+         <div class="modal-footer">
+            <input type="submit" data-dismiss="modal" name="datascienceSurvey-submit" class="submit_contact main-form" value="Submit">
          </div>
          </form>
       </div>
