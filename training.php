@@ -282,8 +282,8 @@
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
             <h4 class="modal-title" id="myModalLabel">Developer Survey</h4>
          </div>
+         <form id="contact-form" class="contact-work-form2">
          <div class="modal-body">
-               <form id="contact-form" class="contact-work-form2">
                   <div class="text-input">
                      <div class="float-input">
                         <input name="name" id="name2" type="text" placeholder="name" required>
@@ -297,17 +297,38 @@
                   </div>
 
                   <div class="textarea-input">
-                     <textarea name="comment" id="comment2" placeholder="message" required></textarea>
+                     <textarea name="comment" id="comment2" placeholder="What are you expecting to learn in an developer course?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" id="comment2" placeholder="Are you interested in this course to get certified or to gain some practical experience to use in the real world?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" id="comment2" placeholder="How much actual Java experience do you feel would be necessary to take this course?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" id="comment2" placeholder="How should the course be split between theory, lab and projects?" required></textarea>
+                     <span><i class="fa fa-comment"></i></span>
+                  </div>
+
+                  <div class="textarea-input">
+                     <textarea name="comment" id="comment2" placeholder="How long should a course of this content rigor be, in your opinion?" required></textarea>
                      <span><i class="fa fa-comment"></i></span>
                   </div>
 
                   <div class="msg2 message"></div>
-                  <input type="submit" name="mailing-submit" class="submit_contact main-form" value="Send Message">
 
-               </form>
+               
          </div>
          <div class="modal-footer">
+            <input type="submit" name="mailing-submit" class="submit_contact main-form" value="Send Message">
          </div>
+         </form>
       </div>
       <!-- /.modal-content -->
    </div>
