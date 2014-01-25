@@ -2242,6 +2242,11 @@ ul.contact-information-list li i {
     padding-left: 36px;
 }
 
+#contact-form textarea {
+    height: 65px;
+    padding-left: 36px;
+}
+
 #contact-form input[type="submit"],
 .comment-form input[type="submit"] {
     float: right;
