@@ -48,7 +48,7 @@
             <a data-toggle="modal" href="#administratorSurvey">Survey</a>
          </li>
          <li>
-            <p>For IT Administrators and Developers with knowledge of basic programming and Linux</p>
+            <p>For IT Administrators and Developers with knowledge of basic programming and Linux</p><br>
          </li>
          <li>
             <p>32-40 hours</p>
@@ -71,10 +71,10 @@
             <a data-toggle="modal" href="#datascienceSurvey">Survey</a>
          </li>
          <li>
-            <p>Big Data Analytics, Mahoot and other tools</p>
+            <p>Big Data Analytics, Mahoot and other tools</p><br><br>
          </li>
          <li>
-            <p>4 to 5 Days OR 32 to 40 Hours</p>
+            <p>32-40 Hours</p>
          </li>
          <li>
             <p>Price $</p>
