@@ -68,6 +68,9 @@
             <span>Big Data Analytics</span>
          </li>
          <li>
+            <a data-toggle="modal" href="#datascienceSurvey">Survey</a>
+         </li>
+         <li>
             <p>Big Data Analytics, Mahoot and other tools</p>
          </li>
          <li>
@@ -75,9 +78,6 @@
          </li>
          <li>
             <p>Price $</p>
-         </li>
-         <li>
-            <a data-toggle="modal" href="#datascienceSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#datascience">Learn More</a>
