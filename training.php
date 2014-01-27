@@ -21,6 +21,9 @@
             <p>Developer</p>
             <span>Hadoop Developer Course</span>
          </li>
+          <li>
+            <a data-toggle="modal" href="#developerSurvey">Survey</a>
+         </li>
          <li>
             <p>For experienced software developers who have experience in traditional data management technologies and want to upgrade their skills</p>
          </li>
@@ -31,18 +34,18 @@
             <p>Price $</p>
          </li>
          <li>
-            <a data-toggle="modal" href="#developerSurvey">Survey</a>
-         </li>
-         <li>
             <a class="learnmore" href="#developer">Learn More</a>
          </li>
       </ul>
    </div>
    <div class="col-md-4">
-      <ul class="pricing-table standard">
+      <ul class="pricing-table basic">
          <li class="title">
             <p>Administrator</p>
             <span>Hadoop Administrator Course</span>
+         </li>
+         <li>
+            <a data-toggle="modal" href="#administratorSurvey">Survey</a>
          </li>
          <li>
             <p>For IT Administrators and Developers with knowledge of basic programming and Linux</p>
@@ -52,9 +55,6 @@
          </li>
          <li>
             <p>Price $</p>
-         </li>
-         <li>
-            <a data-toggle="modal" href="#administratorSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#administrator">Learn More</a>
@@ -284,6 +284,7 @@
          </div>
          <form id="contact-form" class="contact-work-form2" style="margin-bottom: 0px;">
             <div class="modal-body">
+               <!--
                   <div class="text-input">
                      <div class="float-input">
                         <input name="name" id="name2" type="text" placeholder="name" required>
@@ -295,7 +296,7 @@
                         <span><i class="fa fa-envelope"></i></span>
                      </div>
                   </div>
-
+               -->
                   <div class="textarea-input">
                      <textarea name="comment" class="surveyText" id="comment2" placeholder="What are you expecting to learn in an developer course?" required></textarea>
                      <span><i class="fa fa-comment"></i></span>
@@ -342,6 +343,7 @@
          </div>
          <form id="contact-form" class="contact-work-form2" style="margin-bottom: 0px;">
             <div class="modal-body">
+               <!--
                   <div class="text-input">
                      <div class="float-input">
                         <input name="name" id="name2" type="text" placeholder="name" required>
@@ -353,7 +355,7 @@
                         <span><i class="fa fa-envelope"></i></span>
                      </div>
                   </div>
-
+               -->
                   <div class="textarea-input">
                      <textarea name="comment" class="surveyText" id="comment2" placeholder="What are you expecting to learn in an administrative course?" required></textarea>
                      <span><i class="fa fa-comment"></i></span>
@@ -395,6 +397,7 @@
          </div>
          <form id="contact-form" class="contact-work-form2" style="margin-bottom: 0px;">
             <div class="modal-body">
+               <!--
                   <div class="text-input">
                      <div class="float-input">
                         <input name="name" id="name2" type="text" placeholder="name" required>
@@ -406,7 +409,7 @@
                         <span><i class="fa fa-envelope"></i></span>
                      </div>
                   </div>
-
+               -->
                   <div class="textarea-input">
                      <textarea name="comment" class="surveyText" id="comment2" placeholder="What are you expecting to learn in an data science course?" required></textarea>
                      <span><i class="fa fa-comment"></i></span>
