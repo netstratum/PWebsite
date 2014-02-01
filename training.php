@@ -21,9 +21,6 @@
             <p>Developer</p>
             <span>Hadoop Developer Course</span>
          </li>
-          <li>
-            <a data-toggle="modal" href="#developerSurvey">Survey</a>
-         </li>
          <li>
             <p>For experienced software developers who have experience in traditional data management technologies and want to upgrade their skills</p>
          </li>
@@ -32,6 +29,12 @@
          </li>
          <li>
             <p>Price $</p>
+         </li>
+         <li>
+            <p>Locations: Edison, NJ and Princeton, NJ</p>
+         </li>
+         <li>
+            <a data-toggle="modal" href="#developerSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#developer">Learn More</a>
@@ -45,9 +48,6 @@
             <span>Hadoop Administrator Course</span>
          </li>
          <li>
-            <a data-toggle="modal" href="#administratorSurvey">Survey</a>
-         </li>
-         <li>
             <p>For IT Administrators and Developers with knowledge of basic programming and Linux</p><br>
          </li>
          <li>
@@ -55,6 +55,12 @@
          </li>
          <li>
             <p>Price $</p>
+         </li>
+         <li>
+            <p>Locations: Edison, NJ and Princeton, NJ</p>
+         </li>
+         <li>
+            <a data-toggle="modal" href="#administratorSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#administrator">Learn More</a>
@@ -68,9 +74,6 @@
             <span>Big Data Analytics</span>
          </li>
          <li>
-            <a data-toggle="modal" href="#datascienceSurvey">Survey</a>
-         </li>
-         <li>
             <p>Big Data Analytics, Mahoot and other tools</p><br><br>
          </li>
          <li>
@@ -78,6 +81,12 @@
          </li>
          <li>
             <p>Price $</p>
+         </li>
+         <li>
+            <p>Locations: Edison, NJ and Princeton, NJ</p>
+         </li>
+         <li>
+            <a data-toggle="modal" href="#datascienceSurvey">Survey</a>
          </li>
          <li>
             <a class="learnmore" href="#datascience">Learn More</a>
