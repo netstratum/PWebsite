@@ -121,7 +121,7 @@
 						<!-- THE second SLIDE -->
 						<li data-transition="papercut" data-slotamount="15" data-masterspeed="300">
 							<!-- THE MAIN IMAGE IN THE second SLIDE -->
-							<img alt="" src="upload/slider-revolution/connected.png" >
+							<img alt="" src="upload/slider-revolution/handson.png" >
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 
@@ -178,7 +178,7 @@
 						<!-- THE third SLIDE -->
 						<li data-transition="turnoff" data-slotamount="1" data-masterspeed="300">
 							
-							<img alt="" src="upload/slider-revolution/handson.png" >
+							<img alt="" src="upload/slider-revolution/connected.png" >
 
 							
 							<div class="caption large_text sfb"
@@ -379,9 +379,12 @@
 			
 			<div class="welcome-box">
 				<div class="container">
-					<h1>Welcome To <span>Praxio Technologies</span></h1>
-					<p>We are a...</p><br>
-					<p>Learn more <a href="about.php">about us</a></p>
+					<h1><b>Welcome to <span>Praxio Technologies</span></b></h1>
+					<br>
+					<p>We are a leading provider of information technology services, products and training. 
+						Our focus is on big data and applied predictive analytics. 
+						Learn more <a href="about.php">about us</a>
+					</p>
 				</div>
 			</div>
 
