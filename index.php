@@ -177,6 +177,100 @@
 							-->
 						</li>
 
+						<!-- THE second SLIDE 2 -->
+						<li data-transition="papercut" data-slotamount="15" data-masterspeed="300">
+							<!-- THE MAIN IMAGE IN THE second SLIDE -->
+							<img alt="" src="upload/slider-revolution/bigData.png" >
+
+							<!-- THE CAPTIONS IN THIS SLDIE -->
+							<!--
+							<div class="caption large_text sfb"
+								 data-x="140"
+								 data-y="128"
+								 data-speed="600"
+								 data-start="1200"
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >What We Offer</div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="160"
+								 data-y="168"
+								 data-speed="500"
+								 data-start="1500"
+								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-users"></i>Better Reach</div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="454"
+								 data-y="168"
+								 data-speed="600"
+								 data-start="1600"
+								 data-easing="easeOutExpo" data-end="7300" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-bullseye"></i>Targeted Audience</div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="160"
+								 data-y="314"
+								 data-speed="600"
+								 data-start="1800"
+								 data-easing="easeOutExpo" data-end="7400" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-tachometer"></i>Analytics</div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="454"
+								 data-y="314"
+								 data-speed="600"
+								 data-start="2000"
+								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-bullhorn"></i>Brand Reinforcement</div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="738"
+								 data-y="168"
+								 data-speed="600"
+								 data-start="2000"
+								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-phone"></i>One to One</div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="738"
+								 data-y="314"
+								 data-speed="600"
+								 data-start="2000"
+								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-signal"></i>Increase in ROI</div>
+							-->
+						</li>
+
+						<!-- THE second SLIDE -->
+						<li data-transition="papercut" data-slotamount="15" data-masterspeed="300">
+							<!-- THE MAIN IMAGE IN THE second SLIDE -->
+							<img alt="" src="upload/slider-revolution/1.gif" >
+
+							<!-- THE CAPTIONS IN THIS SLDIE -->
+
+							<!-- <div class="caption large_text sfb"
+								 data-x="140"
+								 data-y="98"
+								 data-speed="600"
+								 data-start="1200"
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >What We Offer</div> -->
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="130"
+								 data-y="168"
+								 data-speed="500"
+								 data-start="1500"
+								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><br><i class="fa fa-gears"></i>Hadoop Developer<br>Course<br></div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="450"
+								 data-y="168"
+								 data-speed="600"
+								 data-start="1600"
+								 data-easing="easeOutExpo" data-end="7300" data-endspeed="300" data-endeasing="easeInSine" ><br><i class="fa fa-sitemap"></i>Hadoop Administrative<br>Course<br></div>
+
+							<div class="caption modern_medium_light sft stt"
+								 data-x="770"
+								 data-y="168"
+								 data-speed="600"
+								 data-start="2000"
+								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><br><i class="fa fa-bar-chart-o"></i>Data Scientist<br>Course<br></div>
+						</li>
+
 						<!-- THE third SLIDE -->
 						<li data-transition="turnoff" data-slotamount="1" data-masterspeed="300">
 							
@@ -188,7 +282,7 @@
 								 data-y="185"
 								 data-speed="600"
 								 data-start="1200"
-								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Hello and welcome to <span> Voice Flyers</span></div>
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Hello and welcome to <span> Praxio Technologies</span></div>
 							
 
 							<div class="caption medium_grey sft stt"
@@ -196,7 +290,7 @@
 								 data-y="224"
 								 data-speed="500"
 								 data-start="1300"
-								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" >another creative html template brought to you by Premium Layers</div>
+								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ></div>
 
 							<div class="caption randomrotate"
 								 data-x="0"
@@ -273,14 +367,14 @@
 								 data-y="128"
 								 data-speed="600"
 								 data-start="1200"
-								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Welcome to the one and only VOIP Advertising Company</div>
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Welcome to praxio technologies</div>
 
 							<div class="caption big_white sft stt"
 								 data-x="370"
 								 data-y="185"
 								 data-speed="500"
 								 data-start="1400"
-								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><span>Voice Flyers - A new medium of Advertising</span></div>
+								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><span></span></div>
 
 							<div class="caption randomrotate"
 								 data-x="0"
